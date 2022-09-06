@@ -1,4 +1,4 @@
-#### Desert artwork for the Mathematical Oncology newsletter
+## Desert artwork for the Mathematical Oncology newsletter
 
 Artwork included in the [Mathematical Oncology Newsletter](https://mathematical-oncology.org) for our recent PNAS publication: [Homeostasis limits keratinocyte evolution](https://www.pnas.org/doi/10.1073/pnas.2006487119)
 
